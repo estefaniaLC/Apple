@@ -26,5 +26,6 @@ Integrantes:
 
 [Criticas y polemicas](https://github.com/estefaniaLC/Apple/wiki/Criticas-y-polemicas.)
 
-[Conclusion](
+[Conclusion](https://github.com/estefaniaLC/Apple/wiki/Conclusion.)
+
  

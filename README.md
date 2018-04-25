@@ -24,5 +24,7 @@ Integrantes:
 [Productos](https://github.com/estefaniaLC/Apple/wiki/Prodctos.)
 
 
+[Criticas y polemicas](https://github.com/estefaniaLC/Apple/wiki/Criticas-y-polemicas.)
 
+[Conclusion](
  
